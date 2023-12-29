@@ -1,0 +1,26 @@
+Marks of Abdur Rafay in Maths is 90 
+Marks of Abdur Rafay in Physics is 98 
+Marks of Abdur Rafay in Chemistry is 92 
+Marks of Abdur Rafay in English is 93
+ 
+Marks of Rayyan in Maths is 89 
+Marks of Rayyan in Physics is 89 
+Marks of Rayyan in Chemistry is 88 
+Marks of Rayyan in English is 99
+ 
+Marks of Umer in Maths is 100 
+Marks of Umer in Physics is 99 
+Marks of Umer in Chemistry is 89 
+Marks of Umer in English is 78
+ 
+Marks of Abdullah in Maths is 97 
+Marks of Abdullah in Physics is 76 
+Marks of Abdullah in Chemistry is 87 
+Marks of Abdullah in English is 89 
+
+
+---------------------Result---------------------
+Percentage of Abdur Rafay is 93%
+Percentage of Rayyan is 91%
+Percentage of Umer is 91%
+Percentage of Abdullah is 87%
