@@ -5,7 +5,7 @@ soup = BeautifulSoup(html, 'html5lib')
 # print(soup.prettify())
 # print(soup.title.text)
 # print(soup)
-# tag_child =soup.b
+# tag_child = soup.b
 
 # tag_child = tag_child.parent
 # tag_child = tag_child.next_sibling
