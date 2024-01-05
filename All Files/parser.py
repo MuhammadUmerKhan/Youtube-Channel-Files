@@ -28,3 +28,4 @@ df.head()
 df = df.drop(columns='State-owned', axis=1)
 df.head()
 len(df)
+
